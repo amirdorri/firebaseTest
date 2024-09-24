@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "440389843960",
+    "project_id": "gold-price-app",
+    "storage_bucket": "gold-price-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440389843960:android:dac6b28ac3673ae7f2f40d",
+        "android_client_info": {
+          "package_name": "com.example.goldpriceapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8DGfN6O2cBY1rX8kpDxkA2ovntAHBCZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
